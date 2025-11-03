@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+body { background-color: #222; color: #fff; font-family: sans-serif; }
 ## Getting Started
 
 First, run the development server:
